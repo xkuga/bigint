@@ -11,6 +11,7 @@
 
     maybe the program is not very fast, but it works anyway.
     what's more, it's easy to learn and understand how the computer works
+    the full program can download on Github: https://github.com/xkuga/bigint
     if you find any mistakes, you can contact me on weibo(http://weibo.com/cpl86)
     thank you
 */
