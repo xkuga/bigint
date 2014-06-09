@@ -1,20 +1,27 @@
 BigInt
 ======
 
-BigInt operation
-----------------
 update: 2014.06.09 by xkuga
 
 support operation: +, -, *, /, ^, %, ^%
+
 the program is implement by binary
+
 the BigInt use complement to store and calculate
+
 multiplication: implement by using booth algorithm
+
 division: implement by using binary search
+
 pow and powmod: implement by using binary way
 
+
 maybe the program is not very fast, but it works anyway ><
+
 what's more, it's easy to learn and understand how the computer works
+
 if you find any mistakes, you can contact me on weibo(http://weibo.com/cpl86)
+
 thank you!
 
 BigInt: 大整型
