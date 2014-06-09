@@ -2,8 +2,7 @@ BigInt
 ======
 
 update: 2014.06.09 by xkuga
-support operation: +, -, *, /, ^, %, ^%
-
+sadf
 update: 2014.06.09 by xkuga
 support operation: +, -, *, /, ^, %, ^%
 
