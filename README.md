@@ -1,4 +1,4 @@
-bigint
+BigInt
 ======
 
 BigInt operation
