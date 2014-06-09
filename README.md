@@ -3,6 +3,10 @@ BigInt
 
 update: 2014.06.09 by xkuga
 support operation: +, -, *, /, ^, %, ^%
+
+update: 2014.06.09 by xkuga
+support operation: +, -, *, /, ^, %, ^%
+
 the program is implement by binary
 
 the BigInt use complement to store and calculate
